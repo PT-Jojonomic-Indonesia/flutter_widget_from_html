@@ -1,6 +1,6 @@
-## 0.7.1+1
+## 0.7.2
 
-- Add support for flutter_widget_from_html_core@0.10.0 (#867)
+- Update 'chewie' to git
 
 ## 0.7.1
 
