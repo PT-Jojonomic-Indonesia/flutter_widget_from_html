@@ -8,7 +8,8 @@ environment:
   sdk: ">=2.14.0 <4.0.0"
 
 dependencies:
-  chewie: ^1.0.0
+  chewie:
+    git: https://github.com/PT-Jojonomic-Indonesia/chewie
   flutter:
     sdk: flutter
   flutter_widget_from_html_core: ">=0.8.0 <0.11.0"
@@ -19,8 +20,6 @@ dependency_overrides:
     path: ../core
   fwfh_text_style:
     path: ../fwfh_text_style
-  chewie:
-    git: https://github.com/PT-Jojonomic-Indonesia/chewie
 
 dev_dependencies:
   flutter_test:
